@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="248.03149"
+   height="106.29921"
+   id="svg3022"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="buttons.svg">
+  <defs
+     id="defs3024" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-366.13802"
+     inkscape:cy="-90.815923"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="cm"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3027">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-946.06167)">
+    <g
+       id="bt_begin_normal_old"
+       inkscape:label="#g3857">
+      <rect
+         ry="6.1696215"
+         y="983.97943"
+         x="4.1062412"
+         height="40"
+         width="220"
+         id="rect3030"
+         style="fill:#008a2e;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3800"
+         y="1016.4714"
+         x="14.982199"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           y="1016.4714"
+           x="14.982199"
+           id="tspan3802"
+           sodipodi:role="line"
+           style="font-size:36px">Commencer</tspan></text>
+    </g>
+    <g
+       id="bt_library_normal_old"
+       inkscape:label="#g3852">
+      <rect
+         ry="6.1696215"
+         y="1068.4323"
+         x="5.7142835"
+         height="40"
+         width="220"
+         id="rect3030-3"
+         style="fill:#008a2e;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3800-5"
+         y="1102.1842"
+         x="51.218876"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           y="1102.1842"
+           x="51.218876"
+           id="tspan3802-2"
+           sodipodi:role="line">Ma bibli</tspan></text>
+    </g>
+    <g
+       transform="translate(-20.534812,159.09573)"
+       id="bt_rebegin_normal_fr"
+       inkscape:label="#g3857">
+      <g
+         id="bt_rebegin"
+         inkscape:label="#g4898">
+        <rect
+           style="fill:#008a2e;fill-opacity:1;stroke:none"
+           id="rect3030-7"
+           width="250"
+           height="40"
+           x="5.1917458"
+           y="984.11938"
+           ry="6.1696215" />
+        <text
+           xml:space="preserve"
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           x="11.930037"
+           y="1016.4854"
+           id="text3800-1"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3802-9"
+             x="11.930037"
+             y="1016.4854">Recommencer</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(301.05736,-0.16496452)"
+       id="bt_begin_pressed_old"
+       inkscape:label="#g3857">
+      <rect
+         ry="6.1696215"
+         y="983.97943"
+         x="4.1062412"
+         height="40"
+         width="220"
+         id="rect3030-71"
+         style="fill:#999999;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3800-7"
+         y="1016.4714"
+         x="14.982199"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           y="1016.4714"
+           x="14.982199"
+           id="tspan3802-0"
+           sodipodi:role="line"
+           style="font-size:36px">Commencer</tspan></text>
+    </g>
+    <g
+       transform="translate(297.48593,-25.164965)"
+       id="bt_library_pressed_old"
+       inkscape:label="#g3852">
+      <rect
+         ry="6.1696215"
+         y="1068.4323"
+         x="5.7142835"
+         height="40"
+         width="220"
+         id="rect3030-3-6"
+         style="fill:#999999;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3800-5-6"
+         y="1102.1842"
+         x="51.218876"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           y="1102.1842"
+           x="51.218876"
+           id="tspan3802-2-9"
+           sodipodi:role="line">Ma bibli</tspan></text>
+    </g>
+    <g
+       transform="translate(284.53342,154.16354)"
+       id="bt_rebegin_pressed_fr"
+       inkscape:label="#g3857">
+      <g
+         id="bt_rebegin-6"
+         inkscape:label="#g4898">
+        <rect
+           style="fill:#999999;fill-opacity:1;stroke:none"
+           id="rect3030-7-2"
+           width="250"
+           height="40"
+           x="5.1917458"
+           y="984.11938"
+           ry="6.1696215" />
+        <text
+           xml:space="preserve"
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           x="11.930037"
+           y="1016.4854"
+           id="text3800-1-8"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3802-9-1"
+             x="11.930037"
+             y="1016.4854">Recommencer</tspan></text>
+      </g>
+    </g>
+    <g
+       id="bt_no_good_results_normal_fr"
+       inkscape:label="#g4308"
+       transform="translate(-12.932496,219.97209)">
+      <rect
+         ry="3.5475323"
+         y="1002.6194"
+         x="1.7465957"
+         height="23"
+         width="235"
+         id="rect3030-7-9"
+         style="fill:#008a2e;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3800-1-86"
+         y="1020.0294"
+         x="7.7422147"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           y="1020.0294"
+           x="7.7422147"
+           id="tspan3802-9-2"
+           sodipodi:role="line">Aucun résultat pertinent</tspan></text>
+    </g>
+    <g
+       id="bt_no_good_results_pressed_fr"
+       inkscape:label="#g4308"
+       transform="translate(287.01358,217.84815)">
+      <rect
+         ry="3.5475323"
+         y="1002.6194"
+         x="1.7465957"
+         height="23"
+         width="235"
+         id="rect3030-7-9-9"
+         style="fill:#999999;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3800-1-86-0"
+         y="1020.0294"
+         x="7.7422147"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           y="1020.0294"
+           x="7.7422147"
+           id="tspan3802-9-2-6"
+           sodipodi:role="line">Aucun résultat pertinent</tspan></text>
+    </g>
+    <g
+       transform="matrix(3.6455026,0,0,3.6455026,184.37428,1298.1638)"
+       id="bt_begin_normal"
+       inkscape:label="#g3017">
+      <g
+         id="g3019">
+        <polygon
+           style="fill:#008a2e;fill-opacity:1;fill-rule:evenodd"
+           points="8.065,6.833 8.065,6.833 10.179,4.721 17.074,11.613 10.179,18.51 8.066,16.397 12.847,11.613 "
+           id="polygon3021" />
+      </g>
+      <g
+         id="g3023">
+        <path
+           style="fill:#008a2e;fill-opacity:1;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           d="m 11.339,3.351 c 4.405,0 7.991,3.585 7.991,7.989 0,4.406 -3.586,7.989 -7.991,7.989 -4.405,0 -7.99,-3.583 -7.99,-7.989 0,-4.404 3.585,-7.989 7.99,-7.989 z M 0.978,11.34 c 0,5.716 4.65,10.363 10.361,10.363 5.716,0 10.363,-4.647 10.363,-10.363 C 21.702,5.627 17.055,0.977 11.339,0.977 5.628,0.977 0.978,5.626 0.978,11.34 z"
+           id="path3025" />
+      </g>
+    </g>
+    <g
+       inkscape:label="#g4360"
+       transform="matrix(3.8571619,0,0,3.8571619,405.3437,1296.883)"
+       id="bt_library_normal">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="22.68"
+         height="22.68"
+         id="rect4344" />
+      <g
+         id="g4346">
+        <path
+           style="fill:#004f25"
+           inkscape:connector-curvature="0"
+           d="m 3.633,2.256 v 18.168 c 0,0.584 0.474,1.059 1.058,1.059 h 2.293 c 0.584,0 1.058,-0.475 1.058,-1.059 V 2.256 C 8.042,1.672 7.568,1.198 6.984,1.198 H 4.691 c -0.585,0 -1.058,0.474 -1.058,1.058 z m 3.44,1.294 c 0,0.682 -0.553,1.234 -1.235,1.234 -0.681,0 -1.234,-0.553 -1.234,-1.234 0,-0.682 0.553,-1.235 1.234,-1.235 0.682,0 1.235,0.553 1.235,1.235 z"
+           id="path4348" />
+        <path
+           style="fill:#008a2e"
+           inkscape:connector-curvature="0"
+           d="m 9.135,2.256 v 18.168 c 0,0.584 0.475,1.059 1.059,1.059 h 2.293 c 0.585,0 1.059,-0.475 1.059,-1.059 V 2.256 c 0,-0.584 -0.474,-1.058 -1.059,-1.058 h -2.293 c -0.585,0 -1.059,0.474 -1.059,1.058 z m 3.44,1.294 c 0,0.682 -0.553,1.234 -1.235,1.234 -0.682,0 -1.234,-0.553 -1.234,-1.234 0,-0.682 0.553,-1.235 1.234,-1.235 0.682,0 1.235,0.553 1.235,1.235 z"
+           id="path4350" />
+        <path
+           style="fill:#41a62a"
+           inkscape:connector-curvature="0"
+           d="m 14.637,2.256 v 18.168 c 0,0.584 0.475,1.059 1.059,1.059 h 2.294 c 0.584,0 1.058,-0.475 1.058,-1.059 V 2.256 c 0,-0.584 -0.474,-1.058 -1.058,-1.058 h -2.294 c -0.585,0 -1.059,0.474 -1.059,1.058 z m 3.44,1.294 c 0,0.682 -0.553,1.234 -1.235,1.234 -0.682,0 -1.234,-0.553 -1.234,-1.234 0,-0.682 0.553,-1.235 1.234,-1.235 0.682,0 1.235,0.553 1.235,1.235 z"
+           id="path4352" />
+      </g>
+    </g>
+    <g
+       inkscape:label="#g4360-7"
+       transform="matrix(3.8571619,0,0,3.8571619,404.01714,1401.5777)"
+       id="bt_library_pressed">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="22.68"
+         height="22.68"
+         id="rect4344-1" />
+      <g
+         id="g4346-5">
+        <path
+           style="fill:#999999"
+           inkscape:connector-curvature="0"
+           d="m 3.633,2.256 v 18.168 c 0,0.584 0.474,1.059 1.058,1.059 h 2.293 c 0.584,0 1.058,-0.475 1.058,-1.059 V 2.256 C 8.042,1.672 7.568,1.198 6.984,1.198 H 4.691 c -0.585,0 -1.058,0.474 -1.058,1.058 z m 3.44,1.294 c 0,0.682 -0.553,1.234 -1.235,1.234 -0.681,0 -1.234,-0.553 -1.234,-1.234 0,-0.682 0.553,-1.235 1.234,-1.235 0.682,0 1.235,0.553 1.235,1.235 z"
+           id="path4348-1" />
+        <path
+           style="fill:#999999"
+           inkscape:connector-curvature="0"
+           d="m 9.135,2.256 v 18.168 c 0,0.584 0.475,1.059 1.059,1.059 h 2.293 c 0.585,0 1.059,-0.475 1.059,-1.059 V 2.256 c 0,-0.584 -0.474,-1.058 -1.059,-1.058 h -2.293 c -0.585,0 -1.059,0.474 -1.059,1.058 z m 3.44,1.294 c 0,0.682 -0.553,1.234 -1.235,1.234 -0.682,0 -1.234,-0.553 -1.234,-1.234 0,-0.682 0.553,-1.235 1.234,-1.235 0.682,0 1.235,0.553 1.235,1.235 z"
+           id="path4350-6" />
+        <path
+           style="fill:#999999"
+           inkscape:connector-curvature="0"
+           d="m 14.637,2.256 v 18.168 c 0,0.584 0.475,1.059 1.059,1.059 h 2.294 c 0.584,0 1.058,-0.475 1.058,-1.059 V 2.256 c 0,-0.584 -0.474,-1.058 -1.058,-1.058 h -2.294 c -0.585,0 -1.059,0.474 -1.059,1.058 z m 3.44,1.294 c 0,0.682 -0.553,1.234 -1.235,1.234 -0.682,0 -1.234,-0.553 -1.234,-1.234 0,-0.682 0.553,-1.235 1.234,-1.235 0.682,0 1.235,0.553 1.235,1.235 z"
+           id="path4352-7" />
+      </g>
+    </g>
+    <g
+       id="g3019-3"
+       transform="matrix(3.6455026,0,0,3.6455026,180.80285,1395.3066)">
+      <polygon
+         id="polygon3021-3"
+         points="8.065,6.833 10.179,4.721 17.074,11.613 10.179,18.51 8.066,16.397 12.847,11.613 8.065,6.833 "
+         style="fill:#999999;fill-opacity:1;fill-rule:evenodd" />
+    </g>
+    <g
+       id="bt_begin_pressed"
+       transform="matrix(3.6455026,0,0,3.6455026,180.80285,1395.3066)"
+       inkscape:label="#g3023-3">
+      <path
+         id="path3025-9"
+         d="m 11.339,3.351 c 4.405,0 7.991,3.585 7.991,7.989 0,4.406 -3.586,7.989 -7.991,7.989 -4.405,0 -7.99,-3.583 -7.99,-7.989 0,-4.404 3.585,-7.989 7.99,-7.989 z M 0.978,11.34 c 0,5.716 4.65,10.363 10.361,10.363 5.716,0 10.363,-4.647 10.363,-10.363 C 21.702,5.627 17.055,0.977 11.339,0.977 5.628,0.977 0.978,5.626 0.978,11.34 z"
+         inkscape:connector-curvature="0"
+         style="fill:#999999;fill-opacity:1;fill-rule:evenodd" />
+    </g>
+    <g
+       transform="translate(-689.81734,162.96107)"
+       id="bt_rebegin_normal"
+       inkscape:label="#g3857">
+      <g
+         id="bt_rebegin-2"
+         inkscape:label="#g4898">
+        <rect
+           style="fill:#008a2e;fill-opacity:1;stroke:none"
+           id="rect3030-7-8"
+           width="250"
+           height="40"
+           x="5.1917458"
+           y="984.11938"
+           ry="6.1696215" />
+        <text
+           xml:space="preserve"
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           x="57.270935"
+           y="1013.9834"
+           id="text3800-1-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3802-9-4"
+             x="57.270935"
+             y="1013.9834">Try again</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(-384.7491,158.02888)"
+       id="bt_rebegin_pressed"
+       inkscape:label="#g3857">
+      <g
+         id="bt_rebegin-6-9"
+         inkscape:label="#g4898">
+        <rect
+           style="fill:#999999;fill-opacity:1;stroke:none"
+           id="rect3030-7-2-3"
+           width="250"
+           height="40"
+           x="5.1917458"
+           y="984.11938"
+           ry="6.1696215" />
+        <text
+           xml:space="preserve"
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           x="57.270935"
+           y="1013.9834"
+           id="text3800-1-8-4"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3802-9-1-2"
+             x="57.270935"
+             y="1013.9834">Try again</tspan></text>
+      </g>
+    </g>
+    <g
+       id="bt_no_good_results_normal"
+       inkscape:label="#g4308"
+       transform="translate(-682.21502,223.83743)">
+      <rect
+         ry="3.5475323"
+         y="1002.6194"
+         x="1.7465957"
+         height="23"
+         width="235"
+         id="rect3030-7-9-6"
+         style="fill:#008a2e;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3800-1-86-6"
+         y="1019.9994"
+         x="50.894253"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           y="1019.9994"
+           x="50.894253"
+           id="tspan3802-9-2-63"
+           sodipodi:role="line">No good result</tspan></text>
+    </g>
+    <g
+       id="bt_no_good_results_pressed"
+       inkscape:label="#g4308"
+       transform="translate(-382.26894,221.71349)">
+      <rect
+         ry="3.5475323"
+         y="1002.6194"
+         x="1.7465957"
+         height="23"
+         width="235"
+         id="rect3030-7-9-9-8"
+         style="fill:#999999;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3800-1-86-0-3"
+         y="1019.9994"
+         x="50.894253"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           y="1019.9994"
+           x="50.894253"
+           id="tspan3802-9-2-6-5"
+           sodipodi:role="line">No good result</tspan></text>
+    </g>
+  </g>
+</svg>

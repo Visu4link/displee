@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Displee</string>
+    <string name="name">Name</string>
+    <string name="results">Results:</string>
+    <string name="no_result">No result !</string>
+    <string name="service_down">Service down.</string>
+    <string name="retrieving">Searching…</string>
+    <string name="captureHelpTitle">Welcome in Displee</string>
+    <string name="captureHelp">Snap an image in a well lighted place.\n
+        Try to avoid reflections.\n
+        Tap the screen to trigger the autofocus.</string>
+    <string name="shoot">Snap</string>
+    <string name="help">Help</string>
+    <string name="logo">Logo</string>
+    <string name="begin">Start</string>
+    <string name="back">Back</string>
+    <string name="no_good_result">No good result</string>
+    <string name="rebegin">Try again</string>
+    <string name="recognized_image">Recognized image</string>
+    <string name="description">Description</string>
+
+</resources>
